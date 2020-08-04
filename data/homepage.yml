@@ -1,0 +1,130 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Elegido como el alimento del mes"
+  content : "VitalCan es un alimento que cuida a tu mascota como él/ella te cuida a ti"
+  image : "images/banner2.png"
+  # button
+  button:
+    enable : false
+    label : "Ver todos los productos"
+    link : "products"
+  # demo video
+  video:
+    enable : false
+    videoURL : "https://www.youtube.com/watch?v=Yc1zIsXVQ8M"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "Acerca de nuestros productos"
+  content : "Nuestros productos han sido seleccionados por su alto nivel nutricional para nuestras mascotas, como también por el cuidado que le dan según las necesidades propias de la edad o caracteristicas especiales de nuestros mejores amigos. 
+  Nuestros Budahumanos estudian constantemente alimentos que cumplan con los más altos estándares y sean beneficiosos para todos!"
+  image : "images/acercade.png"
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "¿Quieres saber cómo comprar tus productos?"
+  content : "¡Aún no tenemos habilitado nuestro carro de compras pero haz click y te damos la información!"
+  #Imagen del producto en oferta
+  image : "images/oferta_calltoaction.PNG"
+  #Imagen para el fondo del banner
+  overlayImage : "cta-overlay.png"
+  button:
+    label : "Ver Cómo comprar"
+    link : "faq"
+
+######################## raw material #######################
+material:
+  enable : false
+  title : "Ingredientes de nuestros productos"
+  subtitle : "Lo mejor para los mejores"
+  materialItem:
+    # material item loop
+    - title : "Carne"
+      #image : "images/material/material-1.png"
+      image : "images/material/carne-vacuno-pescado.jpg"
+      content : "El principal componente de todos nuestros alimentos es carne, evitando de esta 
+      manera los rellenos que pueden dañar la salud de tu mascota."
+    # material item loop
+    - title : "Verduras"
+      image : "images/material/material-3.png"
+      content : "Las verduras deben estar siempre dentro de la dieta de sus mascotas, es por esto que el 
+      segundo gran ingrediente son las verduras."
+    # material item loop
+    - title : "Vitaminas y minerales"
+      image : "images/material/vitaminas_minerales.png"
+      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonum"
+    # material item loop
+    - title : "Tulshi leaf"
+      image : "images/material/material-4.png"
+      content : "Lorem ipsum dolor sit amet,be nonumy eirmod tem"
+    
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : "¿Por qué usar los alimentos de Budapets?"
+  subtitle : "¡Porque nuestros amigos se merecen un gran cuidado!"
+  image : "images/ventajas4.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Nos preocupamos de seleccionar lo mejor"
+    - listItem : "Lo dejamos en la puerta de tu casa"
+    - listItem : "Siempre tenemos el stock que necesitas"
+    - listItem : "Te damos asesoría para la elección de tu producto"
+    - listItem : "Queremos conocer a tus mascotas y que sean nuestros amigos"
+    - listItem : "Siempre buscamos nuevos productos y los evaluamos"
+    - listItem : "Tenemos Buda-catadores de productos para perros y gatos"
+    - listItem : "¡Nos preocupamos de los más regalones de la familia!"
+
+
+######################## Promo Video ##########################
+video:
+  enable : false
+  title : "¿Quieres ver más?"
+  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  videoThumb : "images/video.png"
+  videoURL : "https://www.youtube.com/watch?v=QiCpsIS90F0"
+
+
+######################## Products #############################
+products:
+  enable : false
+  title : "Products List"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : false
+  title : "¿Qué piensan nuestros clientes más exigentes?"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Roco Molina"
+      image : "images/clients/client-1.jpg" # size 100px*100px
+      designation : "Beagle, comilón de paladar exigente"
+      content : "Soy un perro con un paladar exigente y adoro que mi mamá haya descubierto los alimentos Budapets <br> Como rico y sano"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    #- name : "Riya Ventila"
+    #  image : "images/clients/client-2.jpg" # size 100px*100px
+    #  designation : "CEO, Dialogue Broad Band"
+    #  content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    #  rating : "three" # rating star, one to five
+      
+    # testimonial item loop
+    #- name : "john Doe"
+    #  image : "images/clients/client-3.jpg" # size 100px*100px
+    #  designation : "CEO, Dialogue Broad Band"
+    #  content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    #  rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    #- name : "Riya Ventila"
+    #  image : "images/clients/client-2.jpg" # size 100px*100px
+    #  designation : "CEO, Dialogue Broad Band"
+    #  content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    #  rating : "four" # rating star, one to five

@@ -1,0 +1,24 @@
+############################# contact info ################
+contact:
+  enable : true
+  # office
+  office:
+    title : "Oficinas Virtuales"
+    content : "No es necesario tener una tienda si tienes la posibilidad de dejar lo mejor para tus mascotas en la puerta de tu casa"
+    # other information comes from "config.toml"
+
+  # opennig hour
+  opennigHour:
+    title : "Horario de atención"
+    dayTimeList:
+      - dayTime : "Lunes a Viernes: 9:00 – 19:00"
+      - dayTime : "Sábado         : 9:00 – 13:00"
+      #- dayTime : "Wednesday: 9:00 – 19:00"
+      #- dayTime : "Thursday: 9:00 – 19:00"
+      #- dayTime : "Friday: 9:00 – 19:00"
+      #- dayTime : "Saturday: 9:00 – 19:00"
+      #- dayTime : "sunday: 9:00 – 19:00"
+
+####################### google map ########################
+map:
+  enable: false
