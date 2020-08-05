@@ -7,7 +7,7 @@ draft: false
 description : "Para gatitos aventureros. Sin cereales y con un elevado contenido de deliciosa carne de aves de corral y salmón."
 
 # product Price
-price: ""
+price: "Desde $13.000"
 priceBefore: ""
 
 # Product Short Description
@@ -48,6 +48,5 @@ La fibra alimentaria facilita el transporte de pelo ingerido a lo largo del apar
 
 ###### Tamaño del envase 
 
-###### > 400 gramos $ 2.590
-###### > 2 kilos - $ 5.990
-###### > 10 kilos - $ 25.980
+###### > 2 kilos - $ 13.090
+###### > 10 kilos - $ 46.080
