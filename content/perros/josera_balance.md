@@ -7,7 +7,7 @@ draft: false
 description : "Para perros senior pero de buen gusto"
 
 # product Price
-price: ""
+price: "15 Kilos $44.000"
 priceBefore: ""
 
 # Product Short Description

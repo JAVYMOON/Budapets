@@ -7,7 +7,7 @@ draft: false
 description : "Para perros con un paladar exigente de 5 tenedores"
 
 # product Price
-price: ""
+price: "15 Kilos $43.000"
 priceBefore: ""
 
 # Product Short Description

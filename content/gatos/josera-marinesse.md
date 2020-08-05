@@ -7,7 +7,7 @@ draft: false
 description : "Para gatos amantes del pescado o con intolerancias alimentarias"
 
 # product Price
-price: ""
+price: ""2 Kilos $13.000 / 10 Kilos $46.000""
 priceBefore: ""
 
 # Product Short Description

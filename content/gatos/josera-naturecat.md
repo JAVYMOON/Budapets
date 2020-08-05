@@ -7,8 +7,7 @@ draft: false
 description : "Para gatitos aventureros. Sin cereales y con un elevado contenido de deliciosa carne de aves de corral y salmón."
 
 # product Price
-price: "2 Kilos $13.000
-10 Kilos $46.000"
+price: "2 Kilos $13.000 / 10 Kilos $45.000"
 priceBefore: ""
 
 # Product Short Description

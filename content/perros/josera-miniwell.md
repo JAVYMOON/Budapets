@@ -7,7 +7,7 @@ draft: false
 description : "Para perros pequeñitos"
 
 # product Price
-price: ""
+price: "4,5 Kilos $9.000"
 priceBefore: ""
 
 # Product Short Description

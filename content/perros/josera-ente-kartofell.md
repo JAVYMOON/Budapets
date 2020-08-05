@@ -7,7 +7,7 @@ draft: false
 description : "Para perros maduros que gustan de cuidarse y alimentarse bien"
 
 # product Price
-price: ""
+price: "15 Kilos $48.000"
 priceBefore: ""
 
 # Product Short Description
