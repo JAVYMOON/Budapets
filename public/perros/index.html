@@ -200,16 +200,47 @@
 
 
 <footer class="section pb-0">
+
+
+  
+<script type="text/javascript" src="jquery-3.3.1.min.js"></script>  
+  
+<link rel="stylesheet" href="floating-wpp.min.css">  
+  
+<script type="text/javascript" src="floating-wpp.min.js"></script>
+
+<script type="text/javascript">  
+  $(function () {
+          $('#WAButton').floatingWhatsApp({
+              phone: '+56974300846', 
+              headerTitle: 'Chat with us on WhatsApp!', 
+              popupMessage: 'Hello, how can we help you?', 
+              showPopup: true, 
+              buttonImage: '<img src="whatsapp.svg" />', 
+              
+              
+              position: "right" 
+
+          });
+      });
+</script>  
+
+
+
   <div class="container">
     <div class="row border-bottom pb-5 justify-content-between">
       <div class="col-12 text-center section-sm">
         <a href="/"><img src="/images/buda-inicio-2.png" class="img-fluid"
             alt="Budapets alimento para gatos y perros"></a>
       </div>
-      
 
-        
+      
       <div id="WAButton"></div>  
+      
+    
+
+
+      
 
       <div class="col-md-4 col-sm-6">
         <h5 class="font-weight-medium mb-4">Conéctate con nosotros</h5>
