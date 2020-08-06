@@ -23,9 +23,9 @@ type: "products"
 # first image will be shown in the product page
 images:
   - image: "images/products/perros/21231_Balance.jpg"
-  - image: "images/products/perros/producto-1.jpg"
-  - image: "images/products/perros/producto-1.jpg"
-  - image: "images/products/perros/producto-1.jpg"
+  - image: "images/products/perros/grid-1-buda.jpg"
+  - image: "images/products/perros/grid-2-todo.jpg"
+  - image: "images/products/perros/grid-3-pets.jpg"
 ---
 
 -	Para perros más maduros: un alimento especial desarrollado para aportarles vitalidad incluso a edades más avanzadas.
