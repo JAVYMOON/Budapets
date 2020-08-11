@@ -27,6 +27,13 @@
         </div>
         <h5>Descripción</h5>
         <p>{{ .Params.ShortDescription | markdownify }}</p>
+        <!--MODIFICACION PARA PEDIDO DIRECTO POR WHATSAPP -->
+        <p><a href="https://wa.me/56974300846/?text=Hola, ¡quiero información de tus productos!" target="_blank">¡Pídelo ya!</a></p>
+        
+                
+        
+        
+        
         <!--<button class="snipcart-add-item btn btn-primary" data-item-id="{{ .Params.ProductID }}"
           data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
           {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}">

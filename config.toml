@@ -127,6 +127,11 @@ copyright = "| Copyright &copy; 2020 [RocoxLab](https://rocoxlab.cl) Todos los d
   #link = "#"
   
   [[params.social]]
+  icon = "ti-comments-smiley"
+  link = "https://wa.me/56974300846"
+  
+
+  [[params.social]]
   #icon = "ti-youtube"
   #link = "#"
   
@@ -141,3 +146,8 @@ copyright = "| Copyright &copy; 2020 [RocoxLab](https://rocoxlab.cl) Todos los d
   # Contact Form
   [params.contact]
   formAction = "https://formspree.io/javfrancs@gmail.com" # contact form works with formspree.io
+
+  # Parámetro para whatsapp
+  [[params.what]]
+  icon = "ti-comments-smiley"
+  link = "https://wa.me/56974300846"
