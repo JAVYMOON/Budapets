@@ -23,9 +23,9 @@ type: "products"
 # first image will be shown in the product page
 images:
   - image: "images/products/perros/21233_Miniwell.jpg"
-  - image: "images/products/perros/producto-1.jpg"
-  - image: "images/products/perros/producto-1.jpg"
-  - image: "images/products/perros/producto-1.jpg"
+  - image: "images/products/perros/grid-1-buda.jpg"
+  - image: "images/products/perros/grid-2-todo.jpg"
+  - image: "images/products/perros/grid-3-pets.jpg"
 ---
 
 ¡El alimento especial de perros adultos para pequeñitos que no tienen que esconderse de los perros más grandes! El tamaño pequeño de las croquetas ofrece un máximo de placer combinado con los mejores ingredientes para una piel sana y un pelaje brillante.
